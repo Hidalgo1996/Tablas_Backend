@@ -1,1 +1,3 @@
-
+-- El resto lo migra del VS
+create database Hidalgo_Yanez;
+Use Hidalgo_Yanez;
